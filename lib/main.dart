@@ -6,6 +6,7 @@ void main() {
   runApp(const ProviderScope(child: MainApp()));
 }
 
+/// 테스트
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
